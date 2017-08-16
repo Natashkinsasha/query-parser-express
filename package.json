@@ -3,9 +3,19 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "author": "natashkinsasha",
+  "license": "ISC",
+  "keywords": [
+    "express",
+    "parser",
+    "query"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Natashkinsasha/query-parser-express"
   },
-  "author": "",
-  "license": "ISC"
+  "bugs":{
+    "url" : "https://github.com/Natashkinsasha/query-parser-express/issues",
+    "email" : "natashkinsasga@gmail.com"
+  }
 }
