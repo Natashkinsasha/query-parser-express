@@ -2,6 +2,18 @@
 
 Convert query strings to numbers and boolean for express/connect applications.
 
+# Installation
+
+Npm
+```javascript
+npm install query-parser-express
+```
+
+Yarn
+```javascript
+yarn add query-parser-express
+```
+
 # Быстрый старт
 
 ```javascript
