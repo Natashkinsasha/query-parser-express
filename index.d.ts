@@ -8,7 +8,7 @@ declare namespace queryParser {
     }
 }
 
-declare function queryParser(options: queryParser.Options): (req: express.Request,
+declare function queryParser(options?: queryParser.Options): (req: express.Request,
                                                         res: express.Response,
                                                         next: express.NextFunction,) => void;
 
